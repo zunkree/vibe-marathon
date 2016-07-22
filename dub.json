@@ -1,0 +1,10 @@
+{
+    "name": "vibe-marathon",
+    "description": "vibe.d compatible client for Mesosphere's Marathon inspired by Java marathon-client",
+    "copyright": "Copyright © 2016, Alexander Milushev aka zunkree <zunkree@gmail.com>",
+    "authors": ["Alexander Milushev aka zunkree <zunkree@gmail.com>"],
+    "targetType": "library",
+    "dependencies": {
+        "vibe-d": "~>0.7.29"
+    }
+}
